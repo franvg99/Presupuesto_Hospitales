@@ -64,24 +64,30 @@ El proyecto sigue un flujo de trabajo ETL (Extract, Transform, Load) clásico:
 ├── images/                   # Capturas del dashboard (opcional)
 └── README.md                 # Documentación del proyecto
 
-🚀 Resultados y KPIs
+```
+
+---
+
+## 🚀 Resultados y KPIs
 
 El dashboard final permite responder preguntas críticas de negocio, tales como:
 
-¿Qué hospitales tienen el mayor porcentaje de ejecución presupuestaria?
+* ¿Qué hospitales tienen el mayor porcentaje de ejecución presupuestaria?
 
-¿Cómo se distribuye el presupuesto geográficamente por Comunas?
+* ¿Cómo se distribuye el presupuesto geográficamente por Comunas?
 
-Desglose del gasto: ¿Cuánto se destina a Recursos Humanos vs. Insumos/Infraestructura?
+* Desglose del gasto: ¿Cuánto se destina a Recursos Humanos vs. Insumos/Infraestructura?
 
-Identificación temprana de sub-ejecuciones presupuestarias.
+* Identificación temprana de sub-ejecuciones presupuestarias.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-Desarrollado por Franco Guerrero.
+* Desarrollado por Franco Guerrero.
 
-Estudiante de Medicina (UBA) & Data Science (Teclab).
+* Estudiante de Medicina (UBA) & Data Science (Teclab).
 
-Entusiasta de la Automatización y el Análisis de Datos en Salud.
+* Entusiasta de la Automatización y el Análisis de Datos en Salud.
 
-Nota: Los datos utilizados son de carácter público y provienen del Gobierno de la Ciudad de Buenos Aires.
+---
+
+*Nota: Los datos utilizados son de carácter público y provienen del Gobierno de la Ciudad de Buenos Aires.*
