@@ -61,7 +61,7 @@ El proyecto sigue un flujo de trabajo ETL (Extract, Transform, Load) clásico:
 │   └── PRESUPUESTO_HOSPITALES.ipynb  # Script principal de ETL
 ├── reports/
 │   └── Presupuestos_Hospitalarios.pbix # Archivo de Power BI
-├── images/                   # Capturas del dashboard (opcional)
+├── informe tecnico/                   # Documentacion del proyecto
 └── README.md                 # Documentación del proyecto
 
 ```
