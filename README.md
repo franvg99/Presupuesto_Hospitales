@@ -63,3 +63,25 @@ El proyecto sigue un flujo de trabajo ETL (Extract, Transform, Load) clásico:
 │   └── Presupuestos_Hospitalarios.pbix # Archivo de Power BI
 ├── images/                   # Capturas del dashboard (opcional)
 └── README.md                 # Documentación del proyecto
+
+🚀 Resultados y KPIs
+
+El dashboard final permite responder preguntas críticas de negocio, tales como:
+
+¿Qué hospitales tienen el mayor porcentaje de ejecución presupuestaria?
+
+¿Cómo se distribuye el presupuesto geográficamente por Comunas?
+
+Desglose del gasto: ¿Cuánto se destina a Recursos Humanos vs. Insumos/Infraestructura?
+
+Identificación temprana de sub-ejecuciones presupuestarias.
+
+👨‍💻 Autor
+
+Desarrollado por Franco Guerrero.
+
+Estudiante de Medicina (UBA) & Data Science (Teclab).
+
+Entusiasta de la Automatización y el Análisis de Datos en Salud.
+
+Nota: Los datos utilizados son de carácter público y provienen del Gobierno de la Ciudad de Buenos Aires.
